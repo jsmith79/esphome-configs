@@ -8,6 +8,7 @@ esphome:
   board: esp01_1m
 
 dashboard_import:
+  package_import_url: github://jsmith79/esphome-configs/main/Garage-Cover.yaml
 
 improv_serial:
 
